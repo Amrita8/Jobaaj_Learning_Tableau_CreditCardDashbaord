@@ -1,0 +1,36 @@
+# Credit Card Customer Report - Tableau Analysis
+
+## 📊 Project Overview
+
+This project provides a comprehensive analysis of credit card customer behavior, demographics, and financial trends. The dashboard is designed to help stakeholders identify key customer segments, monitor churn rates, and analyze spending patterns to drive better business decisions.
+
+## 🗂️ Project Structure
+
+* **Credit Card Customer Report.twbx**: The main Tableau Packaged Workbook containing all visualizations, dashboards, and the underlying data extract.
+* **Data Source**: The report is built on a customer dataset (likely including demographics, credit limits, card types, and transaction history).
+
+## 🚀 Key Features & Dashboards
+
+* **Customer Demographics**: Visual breakdown of customers by Age, Gender, Education, and Marital Status.
+* **Financial Summary**: Analysis of Credit Limits, Total Transaction Amounts, and Utilization Ratios.
+* **Customer Segmentation**: Identification of high-value vs. low-value customers based on card categories (Blue, Silver, Gold, Platinum).
+* **Churn Analysis**: Insights into "Attrited" vs. "Existing" customers to understand why users leave the service.
+
+## 🛠️ Tools Used
+
+* **Tableau Desktop**: For data visualization and dashboard creation.
+* **Excel/CSV**: Used as the primary data source (contained within the `.twbx` extract).
+
+## 📈 Sample Insights
+
+* **High-Risk Segments**: Identify which demographic groups have the highest churn (attrition) rate.
+* **Usage Trends**: Correlation between income levels and credit card utilization.
+* **Card Performance**: Comparison of transaction volumes across different card tiers.
+
+## 📖 How to View
+
+To interact with the visualizations:
+
+1. **Download** the `Credit Card Customer Report.twbx` file from this repository.
+2. **Open** the file using [Tableau Desktop](https://www.tableau.com/products/desktop) or the free [Tableau Reader](https://www.tableau.com/products/reader).
+3. Alternatively, if published, you can view the live version on **Tableau Public** (https://public.tableau.com/app/profile/amrita.saha8026/viz/CreditCardCustomerReport/Dashboard1).
